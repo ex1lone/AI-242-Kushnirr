@@ -1,1 +1,1 @@
-https://ex1lone.github.io/AI-242-Kushnirr/
+https://github.com/ex1lone/AI-242-Kushnirr
